@@ -1,6 +1,6 @@
 // GET REQUEST
 function getTodos() {
-  console.log('GET Request');
+ console.log('GET Request')
 }
 
 // POST REQUEST
